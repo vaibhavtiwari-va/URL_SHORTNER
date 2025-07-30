@@ -42,13 +42,6 @@ https://www.linkedin.com/posts/vaibhav-tiwari-0598352b1_mern-reactjs-nodejs-acti
 ---
 
 
----
 
-✅ **How to use it:**  
-1. Save this as `README.md` in the root of your GitHub project.
-2. Update `Your Name` and GitHub handle.
-3. Add a `LICENSE` file if you want the MIT license badge to work (or change the license section).
-
-Let me know if you also want a badge header (build status, license, etc.) or project screenshots section.
 
 
